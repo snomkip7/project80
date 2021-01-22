@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: #69f0ae;
+}
+input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+button{
+    margin: 10px;
+}
+#para1{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#para2{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.paras1{
+    margin-bottom: 20;
+}
